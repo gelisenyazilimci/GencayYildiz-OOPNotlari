@@ -1,9 +1,6 @@
 # Expression-Bodied Property
 
 ---
-- Tanımlanan property'de # Expression-Bodied Property
-
----
 
 ## Temel Bilgiler
 - Expression-bodied property, C# 6.0 ile gelen ve property tanımlamayı daha kısa ve öz hale getiren bir özelliktir.
