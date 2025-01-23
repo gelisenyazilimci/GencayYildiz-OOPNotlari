@@ -1,6 +1,6 @@
 
 
-### Deep Copy
+# Deep Copy
 
 **Deep Copy** (Derin Kopyalama), bir veri yapısındaki orijinal verilerin birebir kopyalarının oluşturulmasıdır. Bu kopyalama yöntemi, verilerin bellekte tamamen farklı bir adres alanında yeniden oluşturulmasını sağlar. Yani, kopyalanan veriler orijinal veriyle bağımsızdır ve birinin üzerinde yapılan değişiklik diğerini etkilemez.
 
