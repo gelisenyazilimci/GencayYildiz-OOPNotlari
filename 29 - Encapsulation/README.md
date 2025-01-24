@@ -164,6 +164,7 @@ catch (ArgumentException ex)
     Console.WriteLine(ex.Message);
 }
 ```
-
 Bu örnekte, `Price` property'si ile fiyat değerinin negatif olmamasını sağlıyoruz. Ayrıca, `ApplyDiscount` metodu ile ürün fiyatına indirim uyguluyoruz.
+
+---
 
