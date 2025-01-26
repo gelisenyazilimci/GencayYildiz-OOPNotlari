@@ -6,3 +6,5 @@
 - ![img.png](img.png)
 - işte bu şekilde field'larda ki verilerin erişim kontolünü yapmanız için geliştirilmiş olan yapılara Property denir.
 - Biliyorum kısa anlatıldı cidden bu kadar basit :)
+
+### NOT: [29. Bölümde detaya girilmiştir.](../29%20-%20Encapsulation/README.md)
